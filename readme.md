@@ -1,2 +1,2 @@
-# this is a github test
+# this is a git test
 add some contents
